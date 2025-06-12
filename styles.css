@@ -1,0 +1,48 @@
+/* Apply Dark Mode Theme */
+body {
+    background-color: #121212;
+    color: #00aaff;
+    font-family: Arial, sans-serif;
+}
+
+/* Adjust Links */
+a {
+    color: #0099ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header Styling */
+header {
+    background-color: #1a1a1a;
+    padding: 15px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #00aaff;
+}
+
+/* Navigation Menu */
+nav a {
+    font-weight: bold;
+    padding: 10px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #1a1a1a;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Section Boxes */
+section {
+    background-color: #1a1a1a;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
